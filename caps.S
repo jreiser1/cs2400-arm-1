@@ -31,4 +31,3 @@ loop
 		str		r3, [r0]
 		
 		END
-		
